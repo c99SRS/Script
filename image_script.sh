@@ -7,7 +7,7 @@
 #mkdir /home/smruti/image
 
 DIR=/home/smruti/Image              #your destination directory
-SRC=/home/smruti/NetBeansProjects/ehr-platform/healthelife-ehrsolution-master/cabolabs-ehrserver-master/upload          # your source directory , change accordingly 
+SRC=/home/smruti/NetBeansProjects/ehr-platform/xxxxxx/xxxxxxxxxxxx/upload          # your source directory , change accordingly 
 if [ ! -d $DIR ]
 then
         echo " directory " $DIR " does not exist. creating directory ........";
